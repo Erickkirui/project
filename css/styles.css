@@ -1,0 +1,26 @@
+h1 {
+  font-size: 30px;
+  font-style: oblique;
+  font color: white;
+    text-align: center;
+}
+h2 {
+  text-align: center;
+}
+.erick {
+  text-align: center;
+}
+}
+h3 {
+  text-align: center;
+
+}
+.tripp{
+  max-height: 300px;
+  max-width: 300px;
+  width: 140px;
+  height: 140px;
+}
+.king {
+    background-image: url("/home/erick/Pictures/2001488.jpg");
+}
