@@ -1,21 +1,14 @@
 h1 {
   font-size: 30px;
   font-style: oblique;
-  font color: white;
+  font color:red;
     text-align: center;
 }
 h2 {
   text-align: center;
 }
-.erick {
-  text-align: left;
-
-}
-}
 h3 {
-  text-align: center;
-
-}
+  text-align: center;}
 .tripp{
   max-height: 300px;
   max-width: 300px;
@@ -26,4 +19,7 @@ body {
 background-image: url("../image/erick.jpg");
 background-repeat: repeat;
 background-size; cover;
+}
+.erick {
+  font-size: 10pxl;
 }
