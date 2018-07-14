@@ -44,3 +44,31 @@ li{
 .content{
   background-image: url("/home/erick/Desktop/project/images/trip.jpg");
 }
+.topnav {
+    background-color: lightgrey;
+    overflow: hidden;
+    margin-top: 30px;
+
+  }
+  .topnav a {
+    float: left;
+    color: red;
+    text-align: left;
+    padding: 10px  90px;
+    text-decoration: white;
+    font-size: 18px;
+    height: 70%;
+
+  }
+  .topnav a:hover {
+    background-color:  white;
+      color: blue;
+    }
+    .topnav a.active {
+    background-color:blue;
+    color: white;
+  }
+  li a:hover {
+    background-color: #555;
+    color: white;
+}
