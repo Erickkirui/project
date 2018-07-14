@@ -1,11 +1,15 @@
 h1 {
-  font-size: 29px;
+  font-size: 35px;
   text-align: center;
   color: #F0FFFF;
       padding-bottom: 50px;
+       font-weight: bold;
+       font-style: italic;
 }
 h2 {
   text-align: center;
+   font-weight: bold;
+   font-style: italic;
 }
 h3 {
   text-align: center;}
