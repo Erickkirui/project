@@ -1,8 +1,8 @@
 h1 {
-  font-size: 30px;
-  font-style: oblique;
-  font color:red;
-    text-align: center;
+  font-size: 29px;
+  text-align: center;
+  color: #F0FFFF;
+      padding-bottom: 50px;
 }
 h2 {
   text-align: center;
@@ -27,8 +27,16 @@ background-size; cover;
 .back{
   background-color: 	#708090;
 }
-ol{
+.white{
     font-size: 35px;
+    padding-bottom: 10px;
+    color: #F0FFFF;
+
+}
+li{
     padding-bottom: 50px;
 
+}
+.content{
+  background-image: url("/home/erick/Desktop/project/images/trip.jpg");
 }
