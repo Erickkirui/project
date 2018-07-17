@@ -12,7 +12,10 @@ h2 {
    font-style: italic;
 }
 h3 {
-  text-align: center;}
+  text-align: center;
+  color: white;
+  border-style: double;
+}
 .tripp{
   max-height: 300px;
   max-width: 300px;
@@ -94,4 +97,5 @@ font-size: 30px;
   padding-right: 20px;
 }
 .black{
+  background-color: black;
 }
